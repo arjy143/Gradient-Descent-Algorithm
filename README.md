@@ -7,6 +7,7 @@ I have 5 input co-ordinates here:
 ![image](https://github.com/arjy143/Gradient-Descent-Algorithm/assets/115239359/72772a79-cda3-4996-9568-e301bc36cc9f)
 
 These are shown on a scattergraph like this: 
+
 ![image](https://github.com/arjy143/Gradient-Descent-Algorithm/assets/115239359/8206d2ba-967b-4b5b-8ec1-b00079a95ea4)
 
 I will use the gradient descent algorithm to find an approximation of a line of best fit for these points.
